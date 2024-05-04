@@ -1,1 +1,2 @@
-0x1B. C - Sorting Algorithms and The Big O Notation
+0x1B. C - Sorting algorithms & Big O
+sorting algorithms
